@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import RegisterPage from './Register.jsx';
-import DashboardPage from './dashboard.jsx';
+import Dashboard from "./Dashboard.jsx";
 import { AuthProvider } from './Auth/authContext.jsx';
 import TaskPage from './createEditTask.jsx';
 
